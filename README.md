@@ -3,10 +3,22 @@ Advertisement Hub
 Assignment : 
   To create a Discourse website for a custom where user can create, post, update, delete and comment on posts with login,registeration for users.
 Programming Language used: Ruby
-Framework: Rails
-Database used for local developement: Sqlite3
-Frontend languages: HTML, CSS, JavaScript
 
+  Framework: Rails
+  Database used for local developement: Sqlite3
+  Frontend languages: HTML, CSS, JavaScript
+
+Me and this project:
+  Ruby on rails is completely a new language and framework for me. I tried my level best to study, understand and develop this website. But unfortunately I failed to deploy and add google authentication. But If I get extra time I'll definitely complete that too.
+  
+Note:
+  Please ignore my datas, they were uploaded during testing. I hope functionalitites will go well.
+  
+How to run:
+  1)Redirect to the project folder
+  2)bundle install
+  3)rails s
+ 
 1) Home page
     Home page contains post created by every users will be displayed along with title,description,created date, where user can only view and cannot edit ither's post.
 2) Profile
